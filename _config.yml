@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Emre Topalgokceli"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Emre Topalgokceli"
 description              : &description "Data Scientist"
