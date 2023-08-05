@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/pdf/Topalgokceli_Emre CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/Topalgokceli_Emre CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-A PDF copy of my CV is available [here](/files/pdf/Topalgokceli_Emre CV.pdf).
+A PDF copy is available [here](/files/Topalgokceli_Emre CV.pdf).
